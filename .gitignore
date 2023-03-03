@@ -135,3 +135,9 @@ local.properties
 
 # macOS
 **/.DS_STORE
+
+#intelliJ
+.idea/
+
+#Github
+.github/
